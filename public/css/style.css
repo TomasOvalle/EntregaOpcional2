@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; }
+
+.productsContainer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
